@@ -1,0 +1,171 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	text-align: center;
+}
+.wrapper {
+	width: 1170px;
+	margin: 0 auto;
+}
+header {
+	height: 100px;
+	background: #262626;
+	width: 100%;
+	z-index: 10;
+	position: fixed;
+}
+.link {
+	
+	width:	30%;
+	float: left;
+	line-height: 100px;
+	color: white
+}
+.logo {
+	width: 30%;
+	float: left;
+	line-height: 100px;
+}
+.logo a {
+	text-decoration: none;
+	font-size: 30px;
+	font-family: poppins;
+	color: #fff;
+	letter-spacing: 5px;
+}
+.promo a {
+	color: red;
+}
+nav {
+	float: right;
+	line-height: 100px;
+}
+nav a {
+	text-decoration: none;
+	font-family: poppins;
+	letter-spacing: 4px;
+	font-size: 20px;
+	margin: 0 10px;
+	color: #fff;
+}
+.banner-area {
+	width: 100%;
+	height: 500px;
+	position: fixed;
+	top: 100px;
+	background-image: url(BG.png);
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	background-position: center center;
+	background-attachment: fixed;
+}
+.banner-area h2 {
+	padding-top: 8%;
+	font-size: 70px;
+	font-family: poppins;
+	text-transform: uppercase;
+	color: #fff;
+}
+.content-area {
+	width: 100%;
+	position: relative;
+	top: 450px;
+	background: white;
+	height: 3000px;
+}
+.content-area h2 {
+	font-family: poppins;
+	letter-spacing: 4px;
+	padding-top: 30px;
+	font-size: 40px;
+	margin: 0;
+}
+.content-area p {
+	padding: 2% 0px;
+	font-family: poppins;
+	line-height: 30px;
+}
+.content-area p {
+	padding: 2% 0px;
+	font-family: poppins;
+	line-height: 30px;
+}
+form .indications h2 {
+	font-family: poppins;
+	letter-spacing: 4px;
+	padding-top: 30px;
+	font-size: 15px;
+	margin: 0;
+}
+form .button h2 {
+	font-family: poppins;
+	letter-spacing: 4px;
+	padding-top: 30px;
+	font-size: 15px;
+	margin: 0;
+}
+
+form .social-media {
+	margin-top: -10px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+form .social-media p{
+	padding: 5px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+form .input-email-password {
+	padding: 5px;
+	margin-left: 10px;
+}
+form .input-email-password input[type="email"], input[type="password"] {
+	padding: 15px 30px;
+	border-radius: 5px;
+	border: none;
+	background-color: #f2f2f2;
+	outline: none;
+	font-family: poppins;
+}
+form .choose-name input[type="name"], input[type="username"], input[type="first-name"] {
+	padding: 15px 30px;
+	border-radius: 5px;
+	border: none;
+	background-color: #f2f2f2;
+	outline: none;
+	font-family: poppins;
+}
+form .numtel input[type="numtel"]{
+	padding: 15px 30px;
+	border-radius: 5px;
+	border: none;
+	background-color: #f2f2f2;
+	outline: none;
+	font-family: poppins;
+}
+ form .whitetext c {
+	color: #FFFFFF
+}
+b2 button{
+  padding: 10px 20px;
+  border-radius: 5px;
+  border:none;
+  font-size: 15px;
+  color: #99999;
+  background-color: C00;
+  outline:none;
+  cursor:pointer;
+  font-family: poppins;
+}
+
+b
+{
+transition: color 1s;
+}
+b:hover
+{
+color: #F00;
+}

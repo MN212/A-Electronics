@@ -1,0 +1,45 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>A-Electronics - Nos produits</title>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
+	
+</head>
+<body>
+	<div class="box-area">
+		<header>
+		
+			<div class="wrapper">
+			
+				<div class="logo">
+					
+					<a href="#">A-Electronics</a>
+				</div>
+					<nav>
+					<a href="#">Acceuil</a> <a href="Produits.html">Nos produits</a> <a href="Nos-services.html">Nos services</a>
+					</nav>
+			</div>
+		</header>
+		<div class="banner-area">
+			<h2><a style="color : white">Bienvenue chez nous !</h2>
+		</div>
+		<div class="content-area">
+			<div class="wrapper">
+				<h2><a style="color : black">Contactez-nous !</h2>
+				<p id="copy">zebi@gmail.com</p>
+				<b2><button type="button" onclick="copyEvent('copy')">e-mail</button></b2>
+
+<script>
+    function copyEvent(id)
+    {
+        var str = document.getElementById(id);
+        window.getSelection().selectAllChildren(str);
+        document.execCommand("Copy")
+    }
+</script>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

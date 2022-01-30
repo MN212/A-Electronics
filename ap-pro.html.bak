@@ -1,0 +1,77 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>A-Electric - AP Pro</title>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
+	
+</head>
+<body>
+	<div class="box-area">
+		<header>
+		
+			<div class="wrapper">
+			
+				<div class="logo">
+					
+					<a href="#"><b>A-Electronics</a>
+				</div>
+					<nav>
+					<a href="A-Electronics.html">Acceuil</a> <a href="Produits.html">Nos produits</a> <a href="Nos-services.html">Nos services</a>
+					</nav>
+			</div>
+		</header>
+		<div class="banner-area">
+			<h2><a style="color : white">NOS PRODUITS</h2>
+		</div>
+		<div class="content-area">
+			<div class="wrapper">
+				<h2><a style="color : black">AP Pro</h2>
+				<p><a href="ap-pro.html"><img src="airpodspro.jpg" width=300></a></p>
+				<p></p>
+				<p>- -75% contre prix officiel</p>
+				<p>- Livraison en 2 semaines offerte</p>
+				<p>- Échangeable 2 semaines aprés la livraison (sauf airpods 1)</p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p><h2>Livraison Offerte</h2></p>
+				<p>59,95€</p>
+				<p></p>
+				<p><h2><STYLE>A {text-decoration: none;} </STYLE><a style="color: white"><a href="https://buy.stripe.com/test_aEU28YaDXb7b6TCeUX" target="_blank" style="color: #424949"><b>Commander</a></a></h2></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				<p></p>
+				
+				<p><a style="color : grey">⚠ Les produits comportant ce signe "*" sont des répliques extrêmement réalistes
+			</div>
+		</div>
+	</div>
+</body>
+</html>
